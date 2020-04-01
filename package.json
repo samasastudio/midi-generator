@@ -1,0 +1,28 @@
+{
+  "name": "midi-generator",
+  "version": "1.0.0",
+  "description": "midi generator",
+  "main": "midiGen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "midiGen": "node midiGen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samasastudio/midi-generator.git"
+  },
+  "keywords": [
+    "midi",
+    "generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samasastudio/midi-generator/issues"
+  },
+  "homepage": "https://github.com/samasastudio/midi-generator#readme",
+  "dependencies": {
+    "node": "^13.12.0",
+    "scribbletune": "^3.5.3"
+  }
+}
